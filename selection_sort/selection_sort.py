@@ -1,5 +1,5 @@
 """
-The simple implementation of selection sort
+The simple implementation of Selection sort
 """
 
 
