@@ -1,5 +1,5 @@
 """
-The simple example of binary search
+The simple implementation of binary search
 """
 
 
